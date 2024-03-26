@@ -1,4 +1,4 @@
-# SAMPLE BLOG WEBSITE USING HTML CSS BOOTSTRAP AND JAVASCRIPT
+## SAMPLE BLOG WEBSITE USING HTML CSS BOOTSTRAP AND JAVASCRIPT
 
 #### Introducing our sleek and modern blog website template, designed with Bootstrap for seamless functionality and stunning aesthetics. 
 #### With its responsive layout, dynamic content sections, and intuitive navigation, our template provides an immersive experience for both creators and readers alike.
